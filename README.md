@@ -23,4 +23,4 @@ Currently obsessed with the question: **how do you know if AI output is actually
 
 Building in public, one bit at a time.
 
-[X](https://x.com/TarasYanchy_yy) · [Bluesky](https://bsky.app/profile/tarasyanchynskyy.bsky.social)
+[X](https://x.com/TarasYanchy_yy) · [Bluesky](https://bsky.app/profile/tarasyanchynskyy.bsky.social) · [Chess.com](https://www.chess.com/member/onebit0fme) (_let's play_)
