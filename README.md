@@ -8,9 +8,7 @@ Currently obsessed with the question: **how do you know if AI output is actually
 
 ### Now
 
-**[qed.systems](https://qed.systems)** — My answer to the question above. I'm building resonance profiles — standards of judgment you train from examples, not rules. Show it what "good" looks like, it scores everything else. No LLM in the loop, deterministic, sub-second. [Live API](https://qed.systems), [Claude Code plugin](https://github.com/onebit0fme/qed-plugins), go break it.
-
-**[Word of Lore](https://wordoflore.ai)** — AI newsletter covering what to build, what to use, and what to make of it all. Three tracks: Build AI, Apply AI, Understand AI.
+**[U+22A8](https://u22a8.ai)** — My answer to the question above. I'm building scoring models — standards of judgment you train from examples, not rules. No LLM in the loop, deterministic, sub-second. [Live API](http://localhost:8000/docs/api), [Claude Code plugin](https://github.com/u22a8/plugins), go break it.
 
 **[Stream of Consciousness](https://github.com/onebit0fme/stream-of-consciousness)** — A Claude Code plugin for brains that don't do well with to-do lists. Things flow in, decay over time, and either get resolved or restreamed. No tags, no priorities, just vibes and a clock.
 
